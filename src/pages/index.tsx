@@ -14,7 +14,7 @@ const HomePage = () => {
             textAlign: 'center'
           }}
         >
-          Primer MVP
+          Primer Render
         </h1>
 
         <GameCanvas />
