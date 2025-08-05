@@ -6,7 +6,7 @@ export interface Ray {
   angle: number;
 }
 
-const isWall = (
+export const isWall = (
   x: number,
   y: number
 ): boolean => {
